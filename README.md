@@ -6,11 +6,5 @@ Xamarin watchOS sample app to find Uber time and price estimates.
 
 Screenshots
 -------
-Main
-![InterfaceController](Screenshots/InterfaceController.png)
 
-Time estimate
-![TimeEstimateController](Screenshots/TimeEstimateController.png)
-
-Price estimate
-![PriceEstimateController](Screenshots/PriceEstimateController.png)
+![InterfaceController](Screenshots/InterfaceController.png) ![TimeEstimateController](Screenshots/TimeEstimateController.png) ![PriceEstimateController](Screenshots/PriceEstimateController.png)
